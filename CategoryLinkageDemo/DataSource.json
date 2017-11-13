@@ -1,0 +1,2790 @@
+ [
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "休闲娱乐",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "逛商场"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "品美酒"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "交友"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "享美食"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "看电影"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "练唱歌"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "聊天"
+                                          },
+                                          {
+                                          "attInfo" : "本地陪玩",
+                                          "name" : "自驾"
+                                          }
+                                          ],
+                  "name" : "本地陪玩"
+                  },
+                  {
+                  "attInfo" : "休闲娱乐",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "足浴保健"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "艾灸"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "SPA"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "采耳"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "康复理疗"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "中医推拿"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "刮痧拔罐"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "足疗"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "足部按摩"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "足底拔罐"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "修脚"
+                                          },
+                                          {
+                                          "attInfo" : "足疗按摩",
+                                          "name" : "针灸"
+                                          }
+                                          ],
+                  "name" : "足疗按摩"
+                  },
+                  {
+                  "attInfo" : "休闲娱乐",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "生活兴趣",
+                                          "name" : " 起名测字"
+                                          },
+                                          {
+                                          "attInfo" : "生活兴趣",
+                                          "name" : "星座星盘"
+                                          },
+                                          {
+                                          "attInfo" : "生活兴趣",
+                                          "name" : "八字算命"
+                                          },
+                                          {
+                                          "attInfo" : "生活兴趣",
+                                          "name" : "塔罗占卜"
+                                          }
+                                          ],
+                  "name" : "生活兴趣"
+                  },
+                  {
+                  "attInfo" : "休闲娱乐",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "绝地求生"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "王者荣耀"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "逆战"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "英雄联盟"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "守望先锋"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "DOTA2"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "魔兽世界"
+                                          },
+                                          {
+                                          "attInfo" : "游戏陪玩",
+                                          "name" : "其他游戏"
+                                          }
+                                          ],
+                  "name" : "游戏陪玩"
+                  },
+                  {
+                  "attInfo" : "休闲娱乐",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "健身"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "跑步"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "网球"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "台球"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "羽毛球"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "乒乓球"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "高尔夫"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "登山"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "滑雪"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "骑行"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "游泳"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "武术"
+                                          },
+                                          {
+                                          "attInfo" : "运动健身",
+                                          "name" : "其他运动"
+                                          }
+                                          ],
+                  "name" : "运动健身"
+                  }
+                  ],
+  "name" : "休闲娱乐"
+  },
+  {
+  "attInfo" : "类别",
+  "infoList" :     [
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "减肥"
+                                          },
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "形象顾问"
+                                          },
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "美臀"
+                                          },
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "美腿"
+                                          },
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "丰胸"
+                                          },
+                                          {
+                                          "attInfo" : "美体瘦身",
+                                          "name" : "纹身"
+                                          }
+                                          ],
+                  "name" : "美体瘦身"
+                  },
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "洗牙"
+                                          },
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "牙齿矫正"
+                                          },
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "种植牙"
+                                          },
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "烤瓷牙"
+                                          },
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "牙齿美白"
+                                          },
+                                          {
+                                          "attInfo" : "口腔科",
+                                          "name" : "口腔疾病"
+                                          }
+                                          ],
+                  "name" : "口腔科"
+                  },
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "美妆"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "美容"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "祛皱"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "祛痘"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "祛斑"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "祛红血丝"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "去眼袋"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "美白嫩肤"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "补水保湿"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "睫毛嫁接"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "绣眉"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "纹唇"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "脱毛"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "纹眼线"
+                                          },
+                                          {
+                                          "attInfo" : "美容护肤",
+                                          "name" : "男士美容"
+                                          }
+                                          ],
+                  "name" : "美容护肤"
+                  },
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "洗头"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "美发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "剪发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "烫发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "染发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "漂发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "接发"
+                                          },
+                                          {
+                                          "attInfo" : "美发护发",
+                                          "name" : "养发护发"
+                                          }
+                                          ],
+                  "name" : "美发护发"
+                  },
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "美甲",
+                                          "name" : "光疗甲"
+                                          },
+                                          {
+                                          "attInfo" : "美甲",
+                                          "name" : "贴片甲"
+                                          },
+                                          {
+                                          "attInfo" : "美甲",
+                                          "name" : "水晶甲"
+                                          },
+                                          {
+                                          "attInfo" : "美甲",
+                                          "name" : "手部护理"
+                                          }
+                                          ],
+                  "name" : "美甲"
+                  },
+                  {
+                  "attInfo" : "丽人时尚",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "瑜伽"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "爵士舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "拉丁舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "肚皮舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "钢管舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "芭蕾"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "街舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "印度舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "国标舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "民族舞"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "萨尔萨物"
+                                          },
+                                          {
+                                          "attInfo" : "舞蹈/瑜伽",
+                                          "name" : "舍宾"
+                                          }
+                                          ],
+                  "name" : "舞蹈/瑜伽"
+                  }
+                  ],
+  "name" : "丽人时尚"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "家政服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "月嫂"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "育儿嫂"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "保姆"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "钟点工"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "催乳师"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "陪护"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "涉外家政"
+                                          },
+                                          {
+                                          "attInfo" : "保姆/月嫂",
+                                          "name" : "管家"
+                                          }
+                                          ],
+                  "name" : "保姆/月嫂"
+                  },
+                  {
+                  "attInfo" : "家政服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "居民搬家"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "同城货运"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "装卸搬运"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "公司搬家"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "设备搬迁"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "钢琴搬运"
+                                          },
+                                          {
+                                          "attInfo" : "货运搬家",
+                                          "name" : "家具拆装"
+                                          }
+                                          ],
+                  "name" : "货运搬家"
+                  },
+                  {
+                  "attInfo" : "家政服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "家庭保洁"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "物业保洁"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "沙发清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "地板打蜡"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "石材翻新/养护"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "油烟机清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "空调清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "开荒保洁"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "地毯清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "玻璃清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "壁纸清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "灯具清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "高空清洗"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "除虫除蚁"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "空气净化"
+                                          },
+                                          {
+                                          "attInfo" : "保洁清洗",
+                                          "name" : "瓷砖美缝"
+                                          }
+                                          ],
+                  "name" : "保洁清洗"
+                  },
+                  {
+                  "attInfo" : "家政服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "工业管道安装/改造"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "打捞"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "下水管疏通"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "马桶疏通"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "化粪池清理"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "市政管道清淤"
+                                          },
+                                          {
+                                          "attInfo" : "管道疏通/清洗",
+                                          "name" : "隔油池维修/清理"
+                                          }
+                                          ],
+                  "name" : "管道疏通/清洗"
+                  }
+                  ],
+  "name" : "家政服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "维修服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "空调维修/移机"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "厨房家电维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "冰箱维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "热水器维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "电视维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "洗衣机维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "音像家电维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "小家电维修"
+                                          },
+                                          {
+                                          "attInfo" : "家电维修",
+                                          "name" : "家电维修"
+                                          }
+                                          ],
+                  "name" : "家电维修"
+                  },
+                  {
+                  "attInfo" : "维修服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "苹果手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "华为手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "vivo手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "OPPO手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "三星手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "小米手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "金立手机"
+                                          },
+                                          {
+                                          "attInfo" : "手机维修",
+                                          "name" : "魅族手机"
+                                          }
+                                          ],
+                  "name" : "手机维修"
+                  },
+                  {
+                  "attInfo" : "维修服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "暖气水管维修/安装"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "锁具维修/更换"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "防水补漏"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "卫浴/洁具维修"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "电路维修/安装"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "水管/水龙头维修"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "门窗维修/安装"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "打孔"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "粉刷/防腐"
+                                          },
+                                          {
+                                          "attInfo" : "房屋维修/安装",
+                                          "name" : "灯具维修/安装"
+                                          }
+                                          ],
+                  "name" : "房屋维修/安装"
+                  },
+                  {
+                  "attInfo" : "维修服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家具维修",
+                                          "name" : "桌椅柜维修"
+                                          },
+                                          {
+                                          "attInfo" : "家具维修",
+                                          "name" : "沙发维修护理"
+                                          },
+                                          {
+                                          "attInfo" : "家具维修",
+                                          "name" : "办公家具维修"
+                                          },
+                                          {
+                                          "attInfo" : "家具维修",
+                                          "name" : "地板维修"
+                                          },
+                                          {
+                                          "attInfo" : "家具维修",
+                                          "name" : "钟表维修"
+                                          }
+                                          ],
+                  "name" : "家具维修"
+                  },
+                  {
+                  "attInfo" : "维修服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "数码相机维修"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "摄像机维修"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "单反相机/单反配件"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "单电/微单相机"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "游戏机"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "数码相框"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "录音设备"
+                                          },
+                                          {
+                                          "attInfo" : "数码维修",
+                                          "name" : "导航仪维修"
+                                          }
+                                          ],
+                  "name" : "数码维修"
+                  }
+                  ],
+  "name" : "维修服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "教育培训",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "数学"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "语文"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "英语"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "物理"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "化学"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "史地政生"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "家教"
+                                          },
+                                          {
+                                          "attInfo" : "家教",
+                                          "name" : "竞赛"
+                                          }
+                                          ],
+                  "name" : "家教"
+                  },
+                  {
+                  "attInfo" : "教育培训",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "中小学辅导班",
+                                          "name" : "小学"
+                                          },
+                                          {
+                                          "attInfo" : "中小学辅导班",
+                                          "name" : "初中"
+                                          },
+                                          {
+                                          "attInfo" : "中小学辅导班",
+                                          "name" : "高中"
+                                          },
+                                          {
+                                          "attInfo" : "中小学辅导班",
+                                          "name" : "课外英语"
+                                          },
+                                          {
+                                          "attInfo" : "中小学辅导班",
+                                          "name" : "夏冬令营"
+                                          }
+                                          ],
+                  "name" : "中小学辅导班"
+                  },
+                  {
+                  "attInfo" : "教育培训",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "舞蹈"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "音乐"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "绘画"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "求学问教"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "棋牌"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "书法"
+                                          },
+                                          {
+                                          "attInfo" : "才艺技能",
+                                          "name" : "口语"
+                                          }
+                                          ],
+                  "name" : "才艺技能"
+                  },
+                  {
+                  "attInfo" : "教育培训",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "驾校"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "普工/技工"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "会计/审计/统计"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "餐饮/酒店"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "建筑/房产/物业"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : " IT培训"
+                                          },
+                                          {
+                                          "attInfo" : "职业技能培训",
+                                          "name" : "管理培训"
+                                          }
+                                          ],
+                  "name" : "职业技能培训"
+                  }
+                  ],
+  "name" : "教育培训"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "便民服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "蔬菜水果"
+                                          },
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "粮油副食"
+                                          },
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "液化气/煤气"
+                                          },
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "煤炭"
+                                          },
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "桶装水"
+                                          },
+                                          {
+                                          "attInfo" : "生活配送",
+                                          "name" : "跑腿代办"
+                                          }
+                                          ],
+                  "name" : "生活配送"
+                  },
+                  {
+                  "attInfo" : "便民服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "鲜花绿植",
+                                          "name" : "鲜花"
+                                          },
+                                          {
+                                          "attInfo" : "鲜花绿植",
+                                          "name" : "绿植"
+                                          },
+                                          {
+                                          "attInfo" : "鲜花绿植",
+                                          "name" : "仿真花"
+                                          },
+                                          {
+                                          "attInfo" : "鲜花绿植",
+                                          "name" : "园林/园艺"
+                                          }
+                                          ],
+                  "name" : "鲜花绿植"
+                  },
+                  {
+                  "attInfo" : "便民服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "电器回收"
+                                          },
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "电脑回收"
+                                          },
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "手机回收"
+                                          },
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "金银回收"
+                                          },
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "家具回收"
+                                          },
+                                          {
+                                          "attInfo" : "物品回收",
+                                          "name" : "金属回收"
+                                          }
+                                          ],
+                  "name" : "物品回收"
+                  },
+                  {
+                  "attInfo" : "便民服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "干洗"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "皮衣护理"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "皮鞋护理"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "皮包护理"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "改衣"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "修鞋"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "箱包改制"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "家居用品清洗养护"
+                                          },
+                                          {
+                                          "attInfo" : "干洗/改衣/修鞋",
+                                          "name" : "汽车座椅清洗养护"
+                                          }
+                                          ],
+                  "name" : "干洗/改衣/修鞋"
+                  },
+                  {
+                  "attInfo" : "便民服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "宠物赠送/领养"
+                                          },
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "宠物狗"
+                                          },
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "宠物猫"
+                                          },
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "花鸟鱼虫"
+                                          },
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "宠物用品/食品"
+                                          },
+                                          {
+                                          "attInfo" : "宠物",
+                                          "name" : "宠物店/服务"
+                                          }
+                                          ],
+                  "name" : "宠物"
+                  }
+                  ],
+  "name" : "便民服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "招聘服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "全职",
+                                          "name" : "销售/客服"
+                                          },
+                                          {
+                                          "attInfo" : "全职",
+                                          "name" : "人事/行政/后勤"
+                                          },
+                                          {
+                                          "attInfo" : "全职",
+                                          "name" : "普工/技工"
+                                          },
+                                          {
+                                          "attInfo" : "全职",
+                                          "name" : "高级管理"
+                                          },
+                                          {
+                                          "attInfo" : "全职",
+                                          "name" : "其他全职信息"
+                                          }
+                                          ],
+                  "name" : "全职"
+                  },
+                  {
+                  "attInfo" : "招聘服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "学生兼职"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "促销/导购"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "传单派发"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "钟点工"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "服务员"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "礼仪/模特"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "志愿者"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "兼职厨师"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "兼职电销"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "电话客服"
+                                          },
+                                          {
+                                          "attInfo" : "兼职",
+                                          "name" : "其他兼职信息"
+                                          }
+                                          ],
+                  "name" : "兼职"
+                  }
+                  ],
+  "name" : "招聘服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "旅游酒店",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "导游",
+                                          "name" : "兼职导游"
+                                          },
+                                          {
+                                          "attInfo" : "导游",
+                                          "name" : "全职导游"
+                                          },
+                                          {
+                                          "attInfo" : "导游",
+                                          "name" : "当地人"
+                                          }
+                                          ],
+                  "name" : "导游"
+                  },
+                  {
+                  "attInfo" : "旅游酒店",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "旅游服务",
+                                          "name" : "代办签证"
+                                          },
+                                          {
+                                          "attInfo" : "旅游服务",
+                                          "name" : "国内游"
+                                          },
+                                          {
+                                          "attInfo" : "旅游服务",
+                                          "name" : "出境游"
+                                          },
+                                          {
+                                          "attInfo" : "旅游服务",
+                                          "name" : "旅行社"
+                                          }
+                                          ],
+                  "name" : "旅游服务"
+                  },
+                  {
+                  "attInfo" : "旅游酒店",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "酒店/住宿",
+                                          "name" : "民宿"
+                                          },
+                                          {
+                                          "attInfo" : "酒店/住宿",
+                                          "name" : "快捷酒店"
+                                          },
+                                          {
+                                          "attInfo" : "酒店/住宿",
+                                          "name" : "三星级酒店"
+                                          },
+                                          {
+                                          "attInfo" : "酒店/住宿",
+                                          "name" : "四星级酒店"
+                                          },
+                                          {
+                                          "attInfo" : "酒店/住宿",
+                                          "name" : "五星级酒店"
+                                          }
+                                          ],
+                  "name" : "酒店/住宿"
+                  }
+                  ],
+  "name" : "旅游酒店"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "咨询服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "母婴咨询"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "工商注册"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "心理咨询"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "财税顾问"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "市场营销"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "兼职猎头"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "商标专利"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "社保咨询"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "职业规划"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "翻译"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "保险咨询"
+                                          },
+                                          {
+                                          "attInfo" : "专业咨询",
+                                          "name" : "其他咨询"
+                                          }
+                                          ],
+                  "name" : "专业咨询"
+                  },
+                  {
+                  "attInfo" : "咨询服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "爱情挽回"
+                                          },
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "失恋开导"
+                                          },
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "恋爱教程"
+                                          },
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "脱单秘籍"
+                                          },
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "婚姻咨询"
+                                          },
+                                          {
+                                          "attInfo" : "情感咨询",
+                                          "name" : "其他"
+                                          }
+                                          ],
+                  "name" : "情感咨询"
+                  }
+                  ],
+  "name" : "咨询服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "技术服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "IT服务",
+                                          "name" : "兼职测试"
+                                          },
+                                          {
+                                          "attInfo" : "IT服务",
+                                          "name" : "程序编写"
+                                          },
+                                          {
+                                          "attInfo" : "IT服务",
+                                          "name" : "文字处理"
+                                          },
+                                          {
+                                          "attInfo" : "IT服务",
+                                          "name" : "共享打印"
+                                          }
+                                          ],
+                  "name" : "IT服务"
+                  },
+                  {
+                  "attInfo" : "技术服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "头像设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "转手绘"
+                                          },
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "图片处理"
+                                          },
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "平面设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "签名设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计服务",
+                                          "name" : "UI/UE设计"
+                                          }
+                                          ],
+                  "name" : "设计服务"
+                  }
+                  ],
+  "name" : "技术服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "购车指导"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "汽车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "摩托车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "自动车/电动车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "汽车配件"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "客车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "货车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "新车"
+                                          },
+                                          {
+                                          "attInfo" : "车辆交易服务",
+                                          "name" : "租车牌"
+                                          }
+                                          ],
+                  "name" : "车辆交易服务"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "出租车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "货车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "大巴"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "面包车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "商务车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "豪华轿车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "普通轿车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "跑车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "越野车"
+                                          },
+                                          {
+                                          "attInfo" : "租车",
+                                          "name" : "特种车辆"
+                                          }
+                                          ],
+                  "name" : "租车"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "驾校",
+                                          "name" : "教校招生"
+                                          },
+                                          {
+                                          "attInfo" : "驾校",
+                                          "name" : "教练招生"
+                                          },
+                                          {
+                                          "attInfo" : "驾校",
+                                          "name" : "陪练"
+                                          }
+                                          ],
+                  "name" : "驾校"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "代驾",
+                                          "name" : "酒后代驾"
+                                          },
+                                          {
+                                          "attInfo" : "代驾",
+                                          "name" : "商务代驾"
+                                          },
+                                          {
+                                          "attInfo" : "代驾",
+                                          "name" : "长途代驾"
+                                          },
+                                          {
+                                          "attInfo" : "代驾",
+                                          "name" : "旅游代驾"
+                                          },
+                                          {
+                                          "attInfo" : "代驾",
+                                          "name" : "司机外派"
+                                          }
+                                          ],
+                  "name" : "代驾"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "过户"
+                                          },
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "汽车年检"
+                                          },
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "代办上牌"
+                                          },
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "违章处理"
+                                          },
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "异地验车"
+                                          },
+                                          {
+                                          "attInfo" : "过户/验车",
+                                          "name" : "外迁提档"
+                                          }
+                                          ],
+                  "name" : "过户/验车"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "洗车"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "打蜡"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "封釉"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "镀膜"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "空调清洗"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "真皮座椅保养"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "内饰清洗"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "玻璃贴膜"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "座椅包真皮"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "大灯翻新"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "底盘装甲"
+                                          },
+                                          {
+                                          "attInfo" : "汽车美容装饰",
+                                          "name" : "汽车精品"
+                                          }
+                                          ],
+                  "name" : "汽车美容装饰"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "刹车维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "凹陷修复"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "换胎补胎"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "电瓶更换/保养"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "道路救援"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "机油三滤"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "四轮定位"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "四轮动平衡"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "发动机维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "底盘维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "电路维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "变速箱维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "电器维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "油路/节气门清洗"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "空调维修"
+                                          },
+                                          {
+                                          "attInfo" : "汽车维修保养",
+                                          "name" : "摩托车维修"
+                                          }
+                                          ],
+                  "name" : "汽车维修保养"
+                  },
+                  {
+                  "attInfo" : "汽车服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "外观改装"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "性能提升"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "DVD导航"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "隔音"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "内饰改装"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "音响改装"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "防盗系统"
+                                          },
+                                          {
+                                          "attInfo" : "改装/防护",
+                                          "name" : "灯光改装"
+                                          }
+                                          ],
+                  "name" : "改装/防护"
+                  }
+                  ],
+  "name" : "汽车服务"
+  },
+  {
+  "attInfo" : "类别",
+  "infoList" :     [
+                  {
+                  "attInfo" : "餐饮美食",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "厨师上门",
+                                          "name" : "兼职厨师"
+                                          },
+                                          {
+                                          "attInfo" : "厨师上门",
+                                          "name" : "家常小厨"
+                                          },
+                                          {
+                                          "attInfo" : "厨师上门",
+                                          "name" : "特色私厨"
+                                          },
+                                          {
+                                          "attInfo" : "厨师上门",
+                                          "name" : "宴会大厨"
+                                          }
+                                          ],
+                  "name" : "厨师上门"
+                  },
+                  {
+                  "attInfo" : "餐饮美食",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "火锅"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "烧烤"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "自助餐"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "西餐"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "海鲜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "面包甜点"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "粤菜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "川菜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "湘菜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "鲁菜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "东北菜"
+                                          },
+                                          {
+                                          "attInfo" : "美食",
+                                          "name" : "其他美食"
+                                          }
+                                          ],
+                  "name" : "美食"
+                  },
+                  {
+                  "attInfo" : "餐饮美食",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "快餐/团膳",
+                                          "name" : "团队餐"
+                                          },
+                                          {
+                                          "attInfo" : "快餐/团膳",
+                                          "name" : "宴会餐"
+                                          },
+                                          {
+                                          "attInfo" : "快餐/团膳",
+                                          "name" : "食堂承包"
+                                          }
+                                          ],
+                  "name" : "快餐/团膳"
+                  },
+                  {
+                  "attInfo" : "餐饮美食",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "外卖",
+                                          "name" : "中餐外卖"
+                                          },
+                                          {
+                                          "attInfo" : "外卖",
+                                          "name" : "蛋糕订购"
+                                          }
+                                          ],
+                  "name" : "外卖"
+                  }
+                  ],
+  "name" : "餐饮美食"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "婚庆摄影",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚庆公司"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚庆租赁"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚宴酒店"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "彩妆造型"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚庆用品"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "司仪"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚礼跟拍"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "婚纱礼服"
+                                          },
+                                          {
+                                          "attInfo" : "婚庆",
+                                          "name" : "珠宝首饰"
+                                          }
+                                          ],
+                  "name" : "婚庆服务"
+                  },
+                  {
+                  "attInfo" : "婚庆摄影",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "婚纱摄影"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "儿童摄影"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "商业摄影"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "写真/艺术照"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "摄像录像"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "相框相册制作"
+                                          },
+                                          {
+                                          "attInfo" : "摄影摄像",
+                                          "name" : "彩扩冲印"
+                                          }
+                                          ],
+                  "name" : "摄影摄像"
+                  },
+                  {
+                  "attInfo" : "婚庆摄影",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "庆典公司"
+                                          },
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "演出表演"
+                                          },
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "场地布置"
+                                          },
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "展览展会"
+                                          },
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "活动策划"
+                                          },
+                                          {
+                                          "attInfo" : "礼仪庆典",
+                                          "name" : "礼仪模特"
+                                          }
+                                          ],
+                  "name" : "礼仪庆典"
+                  }
+                  ],
+  "name" : "婚庆摄影"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "弱电工程"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "光纤宽带"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "电脑组装"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "系统集成"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "综合布线"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "安防监控"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "IT外包"
+                                          },
+                                          {
+                                          "attInfo" : "网格布线/维护",
+                                          "name" : "网络维护"
+                                          }
+                                          ],
+                  "name" : "网络布线/维护"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "网络营销/推广"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "网站建设/设计"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "网站维护"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "域名注册"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "APP开发"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "软件开发"
+                                          },
+                                          {
+                                          "attInfo" : "网站建设/推广",
+                                          "name" : "服务器"
+                                          }
+                                          ],
+                  "name" : "网站建设/推广"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "纳税申报"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "财税疑难"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "工程造价"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "税务咨询"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "资产评估"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "财务审计"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "代理记账"
+                                          },
+                                          {
+                                          "attInfo" : "财务会计/评估",
+                                          "name" : "验资"
+                                          }
+                                          ],
+                  "name" : "财务会计/评估"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "商标专利",
+                                          "name" : "版权服务"
+                                          },
+                                          {
+                                          "attInfo" : "商标专利",
+                                          "name" : "专利服务"
+                                          },
+                                          {
+                                          "attInfo" : "商标专利",
+                                          "name" : "商标服务"
+                                          }
+                                          ],
+                  "name" : "商标专利"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "LOGO设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "VI设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "品牌策划设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "店面设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "动漫设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "服装设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "景观设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "装潢设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "工业设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "平面设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "广告设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "视频制作"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "名片设计"
+                                          },
+                                          {
+                                          "attInfo" : "设计策划",
+                                          "name" : "印刷包装"
+                                          }
+                                          ],
+                  "name" : "设计策划"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "条幅/锦旗"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "背景墙"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "LED显示屏"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "灯箱/招牌"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "展架制作"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "亮化工程"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "标牌"
+                                          },
+                                          {
+                                          "attInfo" : "喷绘招牌",
+                                          "name" : "户外广告"
+                                          }
+                                          ],
+                  "name" : "喷绘招牌"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "进出口报关"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "货运代理"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "全国零担"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "航空运输"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "空车配货"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "托运"
+                                          },
+                                          {
+                                          "attInfo" : "货运物流",
+                                          "name" : "仓储"
+                                          }
+                                          ],
+                  "name" : "货运物流"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "投资担保",
+                                          "name" : "银行直投"
+                                          },
+                                          {
+                                          "attInfo" : "投资担保",
+                                          "name" : "典当行"
+                                          },
+                                          {
+                                          "attInfo" : "投资担保",
+                                          "name" : "贷款"
+                                          },
+                                          {
+                                          "attInfo" : "投资担保",
+                                          "name" : "投资"
+                                          },
+                                          {
+                                          "attInfo" : "投资担保",
+                                          "name" : "担保"
+                                          }
+                                          ],
+                  "name" : "投资担保"
+                  },
+                  {
+                  "attInfo" : "商务服务",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "公司注销"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "公司变更"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "验资开户"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "工商年检"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "专项审批"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "公司注册"
+                                          },
+                                          {
+                                          "attInfo" : "工商注册",
+                                          "name" : "资质认证"
+                                          }
+                                          ],
+                  "name" : "工商注册"
+                  }
+                  ],
+  "name" : "商务服务"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "房屋租售",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "租房",
+                                          "name" : "整租"
+                                          },
+                                          {
+                                          "attInfo" : "租房",
+                                          "name" : "合租"
+                                          },
+                                          {
+                                          "attInfo" : "租房",
+                                          "name" : "短租/日租"
+                                          },
+                                          {
+                                          "attInfo" : "租房",
+                                          "name" : "品牌公寓"
+                                          },
+                                          {
+                                          "attInfo" : "租房",
+                                          "name" : "车位"
+                                          }
+                                          ],
+                  "name" : "租房"
+                  },
+                  {
+                  "attInfo" : "房屋租售",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "房产交易",
+                                          "name" : "新房"
+                                          },
+                                          {
+                                          "attInfo" : "房产交易",
+                                          "name" : "二手房"
+                                          }
+                                          ],
+                  "name" : "房产交易"
+                  },
+                  {
+                  "attInfo" : "房屋租售",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "商用租售",
+                                          "name" : "写字楼"
+                                          },
+                                          {
+                                          "attInfo" : "商用租售",
+                                          "name" : "商铺"
+                                          },
+                                          {
+                                          "attInfo" : "商用租售",
+                                          "name" : "厂房"
+                                          },
+                                          {
+                                          "attInfo" : "商用租售",
+                                          "name" : "仓库"
+                                          }
+                                          ],
+                  "name" : "商用租售"
+                  }
+                  ],
+  "name" : "房屋租售"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "医疗健康",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "上门医护",
+                                          "name" : "护士上门"
+                                          },
+                                          {
+                                          "attInfo" : "上门医护",
+                                          "name" : "挂号陪诊"
+                                          },
+                                          {
+                                          "attInfo" : "上门医护",
+                                          "name" : "康复陪护"
+                                          },
+                                          {
+                                          "attInfo" : "上门医护",
+                                          "name" : "上门体检"
+                                          }
+                                          ],
+                  "name" : "上门医护"
+                  },
+                  {
+                  "attInfo" : "医疗健康",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "医院门诊",
+                                          "name" : "药店"
+                                          },
+                                          {
+                                          "attInfo" : "医院门诊",
+                                          "name" : "体检中心"
+                                          },
+                                          {
+                                          "attInfo" : "医院门诊",
+                                          "name" : "中医"
+                                          },
+                                          {
+                                          "attInfo" : "医院门诊",
+                                          "name" : "医院"
+                                          },
+                                          {
+                                          "attInfo" : "医院门诊",
+                                          "name" : "宠物医院"
+                                          }
+                                          ],
+                  "name" : "医院门诊"
+                  }
+                  ],
+  "name" : "医疗健康"
+  },
+  {
+  "attInfo" : "顶级节点",
+  "infoList" :     [
+                  {
+                  "attInfo" : "购物商超",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "综合商场"
+                                          },
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "特色集市"
+                                          },
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "数码产品"
+                                          },
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "珠宝饰品"
+                                          },
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "服饰鞋帽"
+                                          },
+                                          {
+                                          "attInfo" : "商超购物",
+                                          "name" : "超市/便利店"
+                                          }
+                                          ],
+                  "name" : "商超购物"
+                  }
+                  ],
+  "name" : "购物商超"
+  },
+  {
+  "attInfo" : "类别",
+  "infoList" :     [
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "橱柜"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "瓷砖"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "地板 "
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "楼梯"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "暖气地暖"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "吊顶浴霸"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "卫浴洁具"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "厨卫电器"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "灯具照明"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "门窗"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "房门"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "水泥砂石"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "涂料壁纸"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "基础建筑材料"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "五金工具"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "龙头水槽"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "环保/除味/保养"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "晾衣架/杆"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "移门壁柜"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "智能家居系统"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "公共环卫设施"
+                                          },
+                                          {
+                                          "attInfo" : "建材",
+                                          "name" : "电子电工"
+                                          }
+                                          ],
+                  "name" : "建材"
+                  },
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "床"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "榻榻米"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "空间家具"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "沙发"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "床垫"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "椅凳"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "案/台类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "架类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "屏风/花窗"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "柜类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "桌类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "几类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "商业/办公家具"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "根雕类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "箱类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "镜子类"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "户外庭院"
+                                          },
+                                          {
+                                          "attInfo" : "家具",
+                                          "name" : "辅料配件"
+                                          }
+                                          ],
+                  "name" : "家具"
+                  },
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "床上用品"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "工艺饰品"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "相框/画片"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "帘类"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "垫类"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "家具摆件饰"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "毯类"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "贴饰壁饰"
+                                          },
+                                          {
+                                          "attInfo" : "家纺家饰",
+                                          "name" : "布艺软饰"
+                                          }
+                                          ],
+                  "name" : "家纺家饰"
+                  },
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "家装服务",
+                                          "name" : "装修队/散工"
+                                          },
+                                          {
+                                          "attInfo" : "家装服务",
+                                          "name" : "装修公司"
+                                          },
+                                          {
+                                          "attInfo" : "家装服务",
+                                          "name" : "设计公司/设计师"
+                                          },
+                                          {
+                                          "attInfo" : "家装服务",
+                                          "name" : "施工监理"
+                                          }
+                                          ],
+                  "name" : "家装服务"
+                  },
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "办公室装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "写字楼装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "餐饮娱乐装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "店铺装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "商场/超市装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "酒店装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "厂房装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "幼儿园装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "医院装修"
+                                          },
+                                          {
+                                          "attInfo" : "工装服务",
+                                          "name" : "展厅装修"
+                                          }
+                                          ],
+                  "name" : "工装服务"
+                  },
+                  {
+                  "attInfo" : "装修建材",
+                  "infoList" :             [
+                                          {
+                                          "attInfo" : "建房/翻建改造",
+                                          "name" : "自建房"
+                                          },
+                                          {
+                                          "attInfo" : "建房/翻建改造",
+                                          "name" : "房屋改造"
+                                          },
+                                          {
+                                          "attInfo" : "建房/翻建改造",
+                                          "name" : "活动房定制"
+                                          }
+                                          ],
+                  "name" : "建房/翻建改造"
+                  }
+                  ],
+  "name" : "装修建材"
+  }
+  ]

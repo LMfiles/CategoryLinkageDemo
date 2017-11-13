@@ -1,0 +1,129 @@
+//
+//  PrefixHeader.pch
+//  CategoryLinkageDemo
+//
+//  Created by 马朋飞 on 2017/11/11.
+//  Copyright © 2017年 马朋飞. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#endif /* PrefixHeader_pch */
+
+#import "MJRefresh.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+#import "UIImage+GIF.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "ReactiveObjC.h"
+#import "SDAutoLayout.h"
+#import <YYModel/YYModel.h>
+#import "MLeaksFinder.h"
+
+typedef NS_ENUM(NSInteger, LMScrollViewDirection) {
+    LMScrollViewDirectionTop, // 向上
+    LMScrollViewDirectionDown // 向下
+};
+
+
+
+#define kScreenWidth ((float)[[UIScreen mainScreen] bounds].size.width)
+#define kScreenHeight ((float)[[UIScreen mainScreen] bounds].size.height)
+#define kScreenScale kScreenWidth/375.0
+#define kScreenHScale kScreenHeight/667.0
+#define kScreenScale_P kScreenWidth/414.0
+#define kScreenHScale_P kScreenHeight/736.0
+
+
+// 是否为iOS8.4
+#define isNotVersion84                  ([[[UIDevice currentDevice] systemVersion] floatValue] > 8.4)
+#define SYSTEM_VERSION_EQUAL_TO(v)                  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedSame)
+#define SYSTEM_VERSION_GREATER_THAN(v)              ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedDescending)
+#define SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(v)  ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN(v)                 ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] == NSOrderedAscending)
+#define SYSTEM_VERSION_LESS_THAN_OR_EQUAL_TO(v)     ([[[UIDevice currentDevice] systemVersion] compare:v options:NSNumericSearch] != NSOrderedDescending)
+
+//iOS系统
+#define isiOS7          (([UIDevice currentDevice].systemVersion.floatValue >= 7.0f && [UIDevice currentDevice].systemVersion.floatValue < 8.0) ? YES : NO)
+#define isiOS7_Or_Later (([UIDevice currentDevice].systemVersion.floatValue >= 7.0f) ? YES : NO)
+#define isiOS8          (([UIDevice currentDevice].systemVersion.floatValue >= 8.0f && [UIDevice currentDevice].systemVersion.floatValue < 9.0f) ? YES : NO)
+#define isiOS8_Or_Later (([UIDevice currentDevice].systemVersion.floatValue >= 8.0f) ? YES : NO)
+#define isiOS9          (([UIDevice currentDevice].systemVersion.floatValue >= 9.0f && [UIDevice currentDevice].systemVersion.floatValue < 10.0f) ? YES : NO)
+#define isiOS9_Or_Later (([UIDevice currentDevice].systemVersion.floatValue >= 9.0f) ? YES : NO)
+#define isiOS10_          (([UIDevice currentDevice].systemVersion.floatValue >= 10.0f && [UIDevice currentDevice].systemVersion.floatValue < 11.0f) ? YES : NO)
+#define isiOS10_Or_Later (([UIDevice currentDevice].systemVersion.floatValue >= 10.0f) ? YES : NO)
+#define isiOS11          (([UIDevice currentDevice].systemVersion.floatValue >= 11.0f && [UIDevice currentDevice].systemVersion.floatValue < 12.0f) ? YES : NO)
+#define isiOS11_Or_Later (([UIDevice currentDevice].systemVersion.floatValue >= 11.0f) ? YES : NO)
+
+//设备判断
+#define IS_IPAD (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad)
+#define IS_IPHONE (UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPhone)
+#define IS_RETINA ([[UIScreen mainScreen] scale] >= 2.0)
+
+#define SCREEN_MAX_LENGTH (MAX(kScreenWidth, kScreenHeight))
+#define SCREEN_MIN_LENGTH (MIN(kScreenWidth, kScreenHeight))
+
+#define IS_IPHONE_4_OR_LESS (IS_IPHONE && SCREEN_MAX_LENGTH < 568.0)
+#define IS_IPHONE_5 (IS_IPHONE && SCREEN_MAX_LENGTH == 568.0)
+#define IS_IPHONE_6 (IS_IPHONE && SCREEN_MAX_LENGTH == 667.0)
+#define IS_IPHONE_6P (IS_IPHONE && SCREEN_MAX_LENGTH == 736.0)
+#define IS_IPHONE_X (IS_IPHONE && SCREEN_MAX_LENGTH == 812.0)
+
+
+#define KeyWindowView [UIApplication sharedApplication].keyWindow
+
+
+#define kBottomTabBarHeight          (IS_IPHONE_X ? 83.f : 50.f)
+#define TableViewFrame_49            CGRectMake(0, self.topBarHeight, kScreenWidth, kScreenHeight-self.topBarHeight-kBottomTabBarHeight)
+#define TableViewFrame_64            CGRectMake(0, self.topBarHeight, kScreenWidth, kScreenHeight-self.topBarHeight)
+#define TableViewFrame_00            CGRectMake(0, 0, kScreenWidth, kScreenHeight-kBottomTabBarHeight)
+
+#define PopViewBackColor             [UIColor colorWithWhite:0.000 alpha:0.698]
+#define ColorWhite                   [UIColor whiteColor]
+#define ColorTheme                   [DataSources globalThemeColor]
+#define ColorTextGray                [UIColor grayColor]
+#define ColorRed                     [UIColor redColor]
+#define ColorOrange                  [DataSources globalOrangeColor]
+#define CF_Color_SepertLineColor     [UIColor colorWithHexString:@"dddddd"]
+#define LineColor                    [DataSources globalSepLineColor]
+#define BackGroundColor              [DataSources backgroundColor]
+#define ColorBack                    [UIColor colorWithWhite:0.218 alpha:0.805]
+#define CBColorA(r,g,b,a)            [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:a]
+#define ColorBorder                  [UIColor colorWithWhite:0.894 alpha:1.000].CGColor
+
+#define TextFont_10                  [DataSources global1TextFont_10]
+#define TextFont_12                  [DataSources global1TextFont_12]
+#define TextFont_13                  [UIFont systemFontOfSize:13.0]
+#define TextFont_14                  [DataSources global1TextFont_14]
+#define TextFontW_14_1               [UIFont systemFontOfSize:14.0 weight:1.0]
+
+#define CENT_INTEGER_TO_FLOAT_YUAN(x) ((double)x/100.f)
+
+/**
+ *  资源图片路径相关 宏
+ */
+#define CFDrowMenuViewSrcName(file) [@"CFDropDownMenuView.bundle" stringByAppendingPathComponent:file]
+#define CFDrowMenuViewFrameworkSrcName(file) [@"Frameworks/CFDropDownMenuView.framework/CFDropDownMenuView.bundle" stringByAppendingPathComponent:file]
+
+/**
+ *  颜色相关 宏
+ */
+#define UIColorFromHex(hexValue) [UIColor colorWithRed:((float)((hexValue & 0xFF0000) >> 16))/255.0 green:((float)((hexValue & 0xFF00) >> 8))/255.0 blue:((float)(hexValue & 0xFF))/255.0 alpha:1.0]
+#define  CF_Color_TextLightGrayColor UIColorFromHex(0x999999)
+#define  CF_Color_TextGrayColor UIColorFromHex(0x666666)
+#define  CF_Color_TextDarkGrayColor UIColorFromHex(0x333333)
+#define  CF_Color_DefaultColor [UIColor orangeColor]// 默认的颜色-蓝
+#define  CF_Color_DefalutBackGroundColor UIColorFromHex(0xf2f2f2)
+
+#define RGBA(r,g,b,a) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:a]
+#define RGB(r,g,b) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:1.0f]
+
+/**
+ *  字体相关 宏
+ */
+#define CF_Font_15 [UIFont systemFontOfSize:15]
+
+
+
